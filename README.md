@@ -1,5 +1,5 @@
 # Test
-TestProj
+个人测试项目，测试一些API的使用
 
 ###1. TestGson ###
 
