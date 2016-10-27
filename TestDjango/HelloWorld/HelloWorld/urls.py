@@ -15,7 +15,12 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
+from learn import views as learn_v
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+	
+	
+	url(r'^learn/$', learn_v.index),
+	url(r'^learn/add/(\d+)/(\d+)/$', learn_v.add, name="add"),
 ]
