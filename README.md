@@ -9,12 +9,12 @@
 - 测试Pair类的使用;
 
 
-[2.TestDjango](2.TestDjango "TestGson")
+[2.TestDjango](2.TestDjango "TestDjango")
 
 - Django的学习demo
 
 
-[3.TestBroadcast](3.TestGson "TestGson")
+[3.TestBroadcast](3.TestBroadcast "TestBroadcast")
 
 - 测试锁屏激活的广播实现
 
